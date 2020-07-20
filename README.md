@@ -1,7 +1,7 @@
 ### Hey there, i'm Ethan
 I started my adventure developing software late into 2016 and have been ~~hating~~ ~~loving~~ coping ever since.
 
-## If you feel like looking at how boring I am here are my socials
+## If you feel like seeing how boring I am here are my socials + places I can be reached
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2)](https://twitter.com/TGP_Ethan)
 [![Twitch](https://img.shields.io/badge/-Twitch-%236441A4)](https://twitch.tv/gamerzatnight)
 

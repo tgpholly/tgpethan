@@ -2,6 +2,7 @@
 I started my adventure developing software late into 2016 and have been ~~hating~~ ~~loving~~ coping ever since.
 
 ## If you feel like seeing how boring I am here are my socials + places I can be reached
+<!-- REE markdown is dumb -->
 <h2 align="center">
   <a href="mailto:"><img src="https://img.shields.io/badge/-Personal%20Mail-%23C14633"></a>
   <a href="mailto:eusprojects@mail.com"><img src="https://img.shields.io/badge/-EUS%20Projects%20Mail-%23004788"></a>

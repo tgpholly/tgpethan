@@ -1,4 +1,4 @@
-### Hey there, i'm Ethan
+### Hey there, I'm Ethan
 I started my adventure developing software late into 2016 and have been ~~hating~~ ~~loving~~ coping ever since.
 
 ## If you feel like seeing how boring I am here are my socials + places I can be reached
@@ -13,7 +13,7 @@ I started my adventure developing software late into 2016 and have been ~~hating
   <a href="https://osu.ppy.sh/users/11073329"><img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA"></a>
 </h2>
 
-My most active project is EUS and it's other repos ([EUS](https://github.com/tgpethan/EUS), [EUS-web](https://github.com/tgpethan/EUS-web), [EUS-wiki](https://github.com/tgpethan/EUS-wiki), [EUS-wiki-pages](https://github.com/tgpethan/EUS-wiki-pages))
+My most active project is EUS and its other repos ([EUS](https://github.com/tgpethan/EUS), [EUS-web](https://github.com/tgpethan/EUS-web), [EUS-wiki](https://github.com/tgpethan/EUS-wiki), [EUS-wiki-pages](https://github.com/tgpethan/EUS-wiki-pages))
 <!--
 **tgpethan/tgpethan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

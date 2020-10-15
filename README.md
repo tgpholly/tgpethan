@@ -9,6 +9,7 @@ I started my adventure developing software late into 2016 and have been ~~hating
   <a href="https://www.youtube.com/channel/UCUwQmlbbuH7ATorONmnratA/"><img src="https://img.shields.io/badge/-Youtube-%23FF0000"></a>
   <a href="https://twitter.com/TGP_Ethan"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2"></a>
   <a href="https://twitch.tv/gamerzatnight"><img src="https://img.shields.io/badge/-Twitch-%236441A4"></a>
+  <a href="https://discord.gg/tzDRsWj"><img src="https://img.shields.io/badge/-Discord-%237289da"></a>
   <a href="https://steamcommunity.com/id/ethtgp/"><img src="https://img.shields.io/badge/-Steam-%230a0a0a"></a>
   <a href="https://osu.ppy.sh/users/11073329"><img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA"></a>
 </h2>

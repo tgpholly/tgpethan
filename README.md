@@ -13,5 +13,3 @@ I started my adventure developing software late into 2016 and have been ~~hating
   <a href="https://steamcommunity.com/id/ethtgp/"><img src="https://img.shields.io/badge/-Steam-%230a0a0a"></a>
   <a href="https://osu.ppy.sh/users/11073329"><img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA"></a>
 </h2>
-
-I don't have an active project at the moment, You can took at [Binato](https://github.com/tgpethan/Binato) I guess.

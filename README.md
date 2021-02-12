@@ -13,3 +13,7 @@ I started my adventure developing software late into 2016 and have been ~~hating
   <a href="https://steamcommunity.com/id/ethtgp/"><img src="https://img.shields.io/badge/-Steam-%230a0a0a"></a>
   <a href="https://osu.ppy.sh/users/11073329"><img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA"></a>
 </h2>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpethan&layout=compact&theme=radical"></a>  
+</p>

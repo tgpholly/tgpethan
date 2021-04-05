@@ -1,5 +1,5 @@
 ### Hey there, I'm Ethan
-I started my adventure developing stuff late into 2016 and have been coping ever since.
+I started my adventure of developing stuff late into 2016 and have been coping ever since.
 
 ## If you feel like seeing how boring I am here are my socials + things that I do / use
 <!-- REE markdown is dumb -->

@@ -1,7 +1,7 @@
 ### Hey there, I'm Ethan
-I started my adventure developing software late into 2016 and have been ~~hating~~ ~~loving~~ coping ever since.
+I started my adventure developing software late into 2016 and have been coping ever since.
 
-## If you feel like seeing how boring I am here are my socials + places I can be reached
+## If you feel like seeing how boring I am here are my socials + things that I do / use
 <!-- REE markdown is dumb -->
 <h2 align="center">
   <a href="mailto:"><img src="https://img.shields.io/badge/-Personal%20Mail-%23C14633"></a>

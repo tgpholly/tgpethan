@@ -1,9 +1,12 @@
-### Hey there, I'm Holly
-I started my adventure of developing stuff late into 2016 and have been coping ever since.
+### Hey there, I'm Holly</h3>
+#### I started my adventure of developing stuff late into 2016 and have been coping ever since.
 
-## If you feel like seeing how boring I am here are my socials + things that I do / use
+<h2> </h2>
+
 <!-- REE markdown is dumb -->
 <h2 align="center">
+  My stuffs
+  <p> </p> <!-- this is dumb -->
   <a href="mailto:"><img src="https://img.shields.io/badge/-Personal%20Mail-%23C14633"></a>
   <a href="mailto:eusprojects@mail.com"><img src="https://img.shields.io/badge/-EUS%20Projects%20Mail-%23004788"></a>
   <a href="https://www.youtube.com/channel/UCUwQmlbbuH7ATorONmnratA/"><img src="https://img.shields.io/badge/-Youtube-%23FF0000"></a>

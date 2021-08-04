@@ -14,6 +14,23 @@ I started my adventure of developing stuff late into 2016 and have been coping e
   <a href="https://osu.ppy.sh/users/11073329"><img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA"></a>
 </h2>
 
+<h2 align="center">
+  Languages I use / work with<br>
+  <p> </p>  <!-- messy spacing lmao -->
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp">
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp">
+</h2>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpethan&layout=compact&theme=radical"></a>  
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tgpethan&show_icons=true&include_all_commits=true&theme=radical"></a>
+  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpethan&layout=compact&langs_count=10&theme=radical"></a>  
 </p>

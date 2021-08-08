@@ -20,17 +20,17 @@
 <h2 align="center">
   Languages I use / work with<br>
   <p> </p>  <!-- messy spacing lmao -->
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png">
-  <img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp">
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
 </h2>
 
 <p align="center">

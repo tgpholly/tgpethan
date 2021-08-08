@@ -20,17 +20,17 @@
 <h2 align="center">
   Languages I use / work with<br>
   <p> </p>  <!-- messy spacing lmao -->
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
+  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
+  <a href="https://haxe.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>
+  <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp"></a>
+  <a href="https://openjdk.java.net/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
 </h2>
 
 <p align="center">

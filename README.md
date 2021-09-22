@@ -1,5 +1,6 @@
 ### Hey there, I'm Holly</h3>
 #### I started my adventure of developing stuff late into 2016 and have been coping ever since.
+Discord: **holly#6518**
 
 <h2> </h2>
 

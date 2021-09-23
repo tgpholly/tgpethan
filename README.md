@@ -37,6 +37,10 @@ Discord: **holly#6518**
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://eusv.ml"><img title=":)" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxbar.png"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://archlinux.org/"><img title="Arch Linux" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/archlinux.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://openvpn.net/"><img title="OpenVPN" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/openvpn.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://nginx.org/"><img title="nginx" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nginx.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://prometheus.io/"><img title="Prometheus" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/prometheus.webp"></a>

@@ -25,6 +25,8 @@ Discord: **holly#6518**
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/python.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://haxe.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>

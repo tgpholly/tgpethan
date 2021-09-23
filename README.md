@@ -19,21 +19,29 @@ Discord: **holly#6518**
 </h2>
 
 <h2 align="center">
-  Languages I use / work with<br>
+  Languages & stuff I use<br>
   <p> </p>  <!-- messy spacing lmao -->
-  <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp"></a>
+  <a href="https://en.wikipedia.org/wiki/JavaScript"><img title="JavaScript" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/js.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
+  <a href="https://nodejs.org/"><img title="NodeJS" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nodejs.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/python.webp"></a>
+  <a href="https://www.python.org/"><img title="Python" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/python.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://haxe.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
+  <a href="https://haxe.org/"><img title="Haxe" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/haxe.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://www.lua.org/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>
+  <a href="https://www.lua.org/"><img title="Lua" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/lua.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://openjdk.java.net/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp"></a>
+  <a href="https://openjdk.java.net/"><img title="Java" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/java.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
+  <a href="https://dotnet.microsoft.com/"><img title="C# .NET" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxbar.png"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://nginx.org/"><img title="nginx" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nginx.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://prometheus.io/"><img title="Prometheus" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/prometheus.webp"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
+  <a href="https://grafana.com/"><img title="Grafana" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/grafana.webp"></a>
 </h2>
 
 <p align="center">

@@ -35,7 +35,7 @@ Discord: **holly#6518**
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://dotnet.microsoft.com/"><img title="C# .NET" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/csharp.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxbar.png"></a>
+  <a href="https://eusv.ml"><img title=":)" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxbar.png"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>
   <a href="https://nginx.org/"><img title="nginx" src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/nginx.webp"></a>
   <a href="#"><img src="https://raw.githubusercontent.com/tgpethan/tgpethan/master/6pxspacer.png"></a>

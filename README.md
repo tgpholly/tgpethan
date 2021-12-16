@@ -56,6 +56,8 @@ Discord: **holly#6518**
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://archlinux.org/"><img title="Arch Linux" src="archlinux.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
+	<a href="https://github.com/jesseduffield/lazygit"><img title="lazygit" src="lazygit.webp"></a>
+	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://openvpn.net/"><img title="OpenVPN" src="openvpn.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://nginx.org/"><img title="NGINX" src="nginx.webp"></a>

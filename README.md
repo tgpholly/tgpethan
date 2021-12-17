@@ -42,15 +42,15 @@ Discord: **holly#6518**
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://nodejs.org/"><img title="NodeJS" src="nodejs.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
-	<a href="https://www.python.org/"><img title="Python" src="python.webp"></a>
+	<a href="https://dotnet.microsoft.com/"><img title="C# .NET" src="csharp.webp"></a>
+	<a href="#"><img src="6pxspacer.png"></a>
+	<a href="https://openjdk.java.net/"><img title="Java" src="java.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://haxe.org/"><img title="Haxe" src="haxe.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://www.lua.org/"><img title="Lua" src="lua.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
-	<a href="https://openjdk.java.net/"><img title="Java" src="java.webp"></a>
-	<a href="#"><img src="6pxspacer.png"></a>
-	<a href="https://dotnet.microsoft.com/"><img title="C# .NET" src="csharp.webp"></a>
+	<a href="https://www.python.org/"><img title="Python" src="python.webp"></a>
 	<a href="#"><img src="6pxspacer.png"></a>
 	<a href="https://eusv.ml"><img title=":)" src="6pxbar.png"></a>
 	<a href="#"><img src="6pxspacer.png"></a>

@@ -3,76 +3,39 @@
 Discord: **holly#6518**
 
 <!-- incoming html!!!! -->
-<h2> </h2> <!-- this is actually stupid -->
+<h2> </h2>
 
-<!-- REE markdown is dumb -->
-<h2 align="center">
-	My stuffs
-	<p> </p> <!-- this is dumb -->
-	<a href="mailto:">
-		<img src="https://img.shields.io/badge/-Personal%20Mail-%23C14633">
-	</a>
-	<a href="mailto:eusprojects@mail.com">
-		<img src="https://img.shields.io/badge/-EUS%20Projects%20Mail-%23004788">
-	</a>
-	<a href="https://www.youtube.com/channel/UCUwQmlbbuH7ATorONmnratA/">
-		<img src="https://img.shields.io/badge/-Youtube-%23FF0000">
-	</a>
-	<a href="https://twitter.com/tgpholly">
-		<img src="https://img.shields.io/badge/-Twitter-%231DA1F2">
-	</a>
-	<a href="https://twitch.tv/gamerzatnight">
-		<img src="https://img.shields.io/badge/-Twitch-%236441A4">
-	</a>
-	<a href="https://discord.gg/tzDRsWj">
-		<img src="https://img.shields.io/badge/-Discord-%237289da">
-	</a>
-	<a href="https://steamcommunity.com/id/ethtgp/">
-		<img src="https://img.shields.io/badge/-Steam-%230a0a0a">
-	</a>
-	<a href="https://osu.ppy.sh/users/11073329">
-		<img src="https://img.shields.io/badge/-osu!%20Profile-%23FF66AA">
-	</a>
-</h2>
-
-<h2 align="center">
-	Languages & stuff I use<br>
+<h2>
+	<u>Languages</u>
 	<p> </p>  <!-- messy spacing lmao -->
-	<a href="https://en.wikipedia.org/wiki/JavaScript"><img title="JavaScript" src="images/js.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://nodejs.org/"><img title="NodeJS" src="images/nodejs.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://dotnet.microsoft.com/"><img title="C# .NET" src="images/csharp.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://openjdk.java.net/"><img title="Java" src="images/java.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://haxe.org/"><img title="Haxe" src="images/haxe.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://www.lua.org/"><img title="Lua" src="images/lua.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://www.python.org/"><img title="Python" src="images/python.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://eusv.ml"><img title=":)" src="images/6pxbar.png"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://archlinux.org/"><img title="Arch Linux" src="images/archlinux.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://i3wm.org/"><img title="i3" src="images/i3.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://github.com/jesseduffield/lazygit"><img title="lazygit" src="images/lazygit.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://openvpn.net/"><img title="OpenVPN" src="images/openvpn.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://nginx.org/"><img title="NGINX" src="images/nginx.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://prometheus.io/"><img title="Prometheus" src="images/prometheus.webp"></a>
-	<a href="#"><img src="images/6pxspacer.png"></a>
-	<a href="https://grafana.com/"><img title="Grafana" src="images/grafana.webp"></a>
+	<a href="https://en.wikipedia.org/wiki/JavaScript"><img width="30px" style="padding-right:8px" title="JavaScript" src="images/js.webp"></a>
+	<a href="https://nodejs.org"><img width="30px" style="padding-right:8px" title="Node.js" src="images/nodejs.webp"></a>
+	<a href="https://dotnet.microsoft.com/"><img width="30px" style="padding-right:8px" title="C# .NET" src="images/csharp.webp"></a>
+	<a href="https://openjdk.java.net/"><img width="30px" style="padding-right:8px" title="Java" src="images/java.webp"></a>
+	<a href="https://haxe.org/"><img width="30px" style="padding-right:8px" title="Haxe" src="images/haxe.webp"></a>
+	<a href="https://www.lua.org/"><img width="30px" style="padding-right:8px" title="Lua" src="images/lua.webp"></a>
+	<a href="https://www.python.org/"><img width="30px" style="padding-right:8px" title="Python" src="images/python.webp"></a>
+	<p> </p>
+	<u>Software & Tools</u>
+	<p> </p>
+	<!--<a href="https://github.com/jesseduffield/lazygit"><img width="30px" style="padding-right:8px" title="lazygit" src="images/lazygit.webp"></a>-->
+	<a href="https://archlinux.org/"><img width="30px" style="padding-right:8px" title="Arch Linux" src="images/archlinux.webp"></a>
+	<a href="https://i3wm.org/"><img width="30px" style="padding-right:8px" title="i3" src="images/i3.webp"></a>
+	<a href="https://vscodium.com/"><img width="30px" style="padding-right:8px" title="VSCodium" src="images/codium.webp"></a>
+	<a href="https://www.jetbrains.com/rider/"><img width="30px" style="padding-right:8px" title="Rider" src="images/rider.webp"></a>
+	<a href="https://nginx.org/"><img width="30px" style="padding-right:8px" title="NGINX" src="images/nginx.webp"></a>
+	<a href="https://discord.com/"><img width="30px" style="padding-right:8px" title="Discord" src="images/discord.webp"></a>
+	<a href="https://prometheus.io/"><img width="30px" style="padding-right:8px" title="Prometheus" src="images/prometheus.webp"></a>
+	<a href="https://grafana.com/"><img width="30px" style="padding-right:8px" title="Grafana" src="images/grafana.webp"></a>
+	<a href="https://openvpn.net/"><img width="30px" style="padding-right:8px" title="OpenVPN" src="images/openvpn.webp"></a>
 </h2>
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tgpethan&show_icons=true&include_all_commits=true&theme=radical">
 	</a>
+</p>
+<p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpethan&layout=compact&langs_count=10&theme=radical">
 	</a>

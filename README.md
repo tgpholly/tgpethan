@@ -24,6 +24,7 @@ Discord: **holly#6518**
 	<a href="https://vscodium.com/"><img width="30px" style="padding-right:8px" title="VSCodium" src="images/codium.webp"></a>
 	<a href="https://www.jetbrains.com/rider/"><img width="30px" style="padding-right:8px" title="Rider" src="images/rider.webp"></a>
 	<a href="https://nginx.org/"><img width="30px" style="padding-right:8px" title="NGINX" src="images/nginx.webp"></a>
+	<a href="https://redis.io/"><img width="30px" style="padding-right:8px" title="Redis" src="images/redis.webp"></a>
 	<a href="https://discord.com/"><img width="30px" style="padding-right:8px" title="Discord" src="images/discord.webp"></a>
 	<a href="https://telegram.org/"><img width="30px" style="padding-right:8px" title="Telegram" src="images/telegram.webp"></a>
 	<a href="https://prometheus.io/"><img width="30px" style="padding-right:8px" title="Prometheus" src="images/prometheus.webp"></a>

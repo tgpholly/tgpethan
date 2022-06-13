@@ -22,7 +22,8 @@ Discord: **holly#6518**
 	<a href="https://archlinux.org/"><img width="30px" style="padding-right:8px" title="Arch Linux" src="images/archlinux.webp"></a>
 	<a href="https://i3wm.org/"><img width="30px" style="padding-right:8px" title="i3" src="images/i3.webp"></a>
 	<a href="https://vscodium.com/"><img width="30px" style="padding-right:8px" title="VSCodium" src="images/codium.webp"></a>
-	<a href="https://www.jetbrains.com/rider/"><img width="30px" style="padding-right:8px" title="Rider" src="images/rider.webp"></a>
+	<a href="https://www.jetbrains.com/rider/"><img width="30px" style="padding-right:8px" title="Jetbrains Rider" src="images/rider.webp"></a>
+	<a href="https://www.jetbrains.com/idea/"><img width="30px" style="padding-right:8px" title="Intellij Idea" src="images/idea.webp"></a>
 	<a href="https://nginx.org/"><img width="30px" style="padding-right:8px" title="NGINX" src="images/nginx.webp"></a>
 	<a href="https://redis.io/"><img width="30px" style="padding-right:8px" title="Redis" src="images/redis.webp"></a>
 	<a href="https://discord.com/"><img width="30px" style="padding-right:8px" title="Discord" src="images/discord.webp"></a>

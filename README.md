@@ -35,11 +35,6 @@ Discord: **holly#6518**
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tgpethan&show_icons=true&include_all_commits=true&theme=radical">
-	</a>
-</p>
-<p align="center">
-	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpethan&layout=compact&langs_count=10&theme=radical">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpholly&layout=compact&langs_count=10&theme=radical">
 	</a>
 </p>

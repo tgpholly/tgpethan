@@ -37,5 +37,8 @@ Discord: **holly#6518**
 	<a href="https://github.com/anuraghazra/github-readme-stats">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tgpholly&layout=compact&langs_count=10&theme=radical">
 	</a>
-	<img src="https://eusv.net/vc/5f6192fef2b388d9/">
 </p>
+
+<h2 align="center">
+	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38595">
+</h2>

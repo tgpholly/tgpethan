@@ -39,6 +39,8 @@ Discord: **holly#6518**
 	</a>
 </p>
 
-<h2 align="center">
+<h2></h2>
+
+<p align="center">
 	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38595">
-</h2>
+</p>

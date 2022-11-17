@@ -8,6 +8,7 @@ Discord: **holly#6518**
 <h2>
 	<u>Languages</u>
 	<p> </p>  <!-- messy spacing lmao -->
+	<a href="https://www.typescriptlang.org"><img width="30px" style="padding-right:8px" title="JavaScript" src="images/ts.webp"></a>
 	<a href="https://en.wikipedia.org/wiki/JavaScript"><img width="30px" style="padding-right:8px" title="JavaScript" src="images/js.webp"></a>
 	<a href="https://nodejs.org"><img width="30px" style="padding-right:8px" title="Node.js" src="images/nodejs.webp"></a>
 	<a href="https://dotnet.microsoft.com/"><img width="30px" style="padding-right:8px" title="C# .NET" src="images/csharp.webp"></a>

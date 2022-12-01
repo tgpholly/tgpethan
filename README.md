@@ -15,6 +15,7 @@ Discord: **holly#6518**
 	<a href="https://openjdk.java.net/"><img width="30px" style="padding-right:8px" title="Java" src="images/java.webp"></a>
 	<a href="https://haxe.org/"><img width="30px" style="padding-right:8px" title="Haxe" src="images/haxe.webp"></a>
 	<a href="https://www.lua.org/"><img width="30px" style="padding-right:8px" title="Lua" src="images/lua.webp"></a>
+	<a href="https://www.php.net/"><img width="30px" style="padding-right:8px" title="PHP" src="images/php.webp"></a>
 	<a href="https://www.python.org/"><img width="30px" style="padding-right:8px" title="Python" src="images/python.webp"></a>
 	<p> </p>
 	<u>Software & Tools</u>
@@ -43,5 +44,5 @@ Discord: **holly#6518**
 <h2></h2>
 
 <p align="center">
-	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38606" title="This is not 100% accurate due to the way GitHub displays images">
+	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38607" title="This is not 100% accurate due to the way GitHub displays images">
 </p>

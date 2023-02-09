@@ -43,5 +43,5 @@ Discord: **holly#6518**
 <h2></h2>
 
 <p align="center">
-	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38607" title="This is not 100% accurate due to the way GitHub displays images">
+	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38608" title="This is not 100% accurate due to the way GitHub displays images">
 </p>

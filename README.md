@@ -5,15 +5,15 @@ Discord: **holly#6518**
 <h2> </h2>
 
 <h2>
-	<u>Languages</u>
+	<u>Languages (ordered by preference)</u>
 	<p> </p>  <!-- messy spacing lmao -->
 	<a href="https://www.typescriptlang.org"><img width="30px" style="padding-right:8px" title="JavaScript" src="images/ts.webp"></a>
 	<a href="https://en.wikipedia.org/wiki/JavaScript"><img width="30px" style="padding-right:8px" title="JavaScript" src="images/js.webp"></a>
 	<a href="https://nodejs.org"><img width="30px" style="padding-right:8px" title="Node.js" src="images/nodejs.webp"></a>
 	<a href="https://dotnet.microsoft.com/"><img width="30px" style="padding-right:8px" title="C# .NET" src="images/csharp.webp"></a>
+	<a href="https://www.lua.org/"><img width="30px" style="padding-right:8px" title="Lua" src="images/lua.webp"></a>
 	<a href="https://openjdk.java.net/"><img width="30px" style="padding-right:8px" title="Java" src="images/java.webp"></a>
 	<a href="https://haxe.org/"><img width="30px" style="padding-right:8px" title="Haxe" src="images/haxe.webp"></a>
-	<a href="https://www.lua.org/"><img width="30px" style="padding-right:8px" title="Lua" src="images/lua.webp"></a>
 	<a href="https://www.php.net/"><img width="30px" style="padding-right:8px" title="PHP" src="images/php.webp"></a>
 	<a href="https://www.python.org/"><img width="30px" style="padding-right:8px" title="Python" src="images/python.webp"></a>
 	<p> </p>
@@ -43,5 +43,5 @@ Discord: **holly#6518**
 <h2></h2>
 
 <p align="center">
-	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38608" title="This is not 100% accurate due to the way GitHub displays images">
+	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38609" title="This is not 100% accurate due to the way GitHub displays images">
 </p>

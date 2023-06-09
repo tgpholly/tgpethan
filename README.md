@@ -1,5 +1,5 @@
 ### Hey there, I'm Holly
-Discord: **holly#6518**
+Discord: tgpholly
 
 <!-- incoming html!!!! -->
 <h2> </h2>

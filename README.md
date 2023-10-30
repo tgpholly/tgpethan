@@ -21,7 +21,9 @@ Discord: tgpholly
 	<p> </p>
 	<!--<a href="https://github.com/jesseduffield/lazygit"><img width="30px" style="padding-right:8px" title="lazygit" src="images/lazygit.webp"></a>-->
 	<a href="https://archlinux.org/"><img width="30px" style="padding-right:8px" title="Arch Linux" src="images/archlinux.webp"></a>
-	<a href="https://i3wm.org/"><img width="30px" style="padding-right:8px" title="i3" src="images/i3.webp"></a>
+	<!--<a href="https://i3wm.org/"><img width="30px" style="padding-right:8px" title="i3" src="images/i3.webp"></a>-->
+	<a href="https://wayland.freedesktop.org/"><img width="30px" style="padding-right:8px" title="Wayland" src="images/wayland.webp"></a>
+	<a href="https://swaywm.org/"><img width="30px" style="padding-right:8px" title="Sway" src="images/sway.webp"></a>
 	<a href="https://vscodium.com/"><img width="30px" style="padding-right:8px" title="VSCodium" src="images/codium.webp"></a>
 	<a href="https://www.jetbrains.com/rider/"><img width="30px" style="padding-right:8px" title="Jetbrains Rider" src="images/rider.webp"></a>
 	<a href="https://www.jetbrains.com/idea/"><img width="30px" style="padding-right:8px" title="Intellij Idea" src="images/idea.webp"></a>
@@ -43,5 +45,5 @@ Discord: tgpholly
 <h2></h2>
 
 <p align="center">
-	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38609" title="This is not 100% accurate due to the way GitHub displays images">
+	<img src="https://eusv.net/vc/5f6192fef2b388d9/?38610" title="This is not 100% accurate due to the way GitHub displays images">
 </p>

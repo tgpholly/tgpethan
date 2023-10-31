@@ -18,7 +18,6 @@ Discord: tgpholly
 	<a href="https://www.python.org/"><img width="30px" style="padding-right:8px" title="Python" src="images/python.webp"></a>
 	<a href="http://google.com"><img height="30px" style="padding-right:8px" src="images/spacer.webp"></a>
 	<!-- The tools in question -->
-	<a href="https://github.com/jesseduffield/lazygit"><img width="30px" style="padding-right:8px" title="lazygit" src="images/lazygit.webp"></a>            
 	<a href="https://archlinux.org/"><img width="30px" style="padding-right:8px" title="Arch Linux" src="images/archlinux.webp"></a>
 	<!--<a href="https://i3wm.org/"><img width="30px" style="padding-right:8px" title="i3" src="images/i3.webp"></a>-->
 	<a href="https://wayland.freedesktop.org/"><img width="30px" style="padding-right:8px" title="Wayland" src="images/wayland.webp"></a>
@@ -30,6 +29,7 @@ Discord: tgpholly
 	<a href="https://nginx.org/"><img width="30px" style="padding-right:8px" title="NGINX" src="images/nginx.webp"></a>
 	<a href="https://redis.io/"><img width="30px" style="padding-right:8px" title="Redis" src="images/redis.webp"></a>
 	<a href="https://godotengine.org/"><img width="30px" style="padding-right:8px" title="Godot" src="images/godot.webp"></a>
+	<a href="https://github.com/jesseduffield/lazygit"><img width="30px" style="padding-right:8px" title="lazygit" src="images/lazygit.webp"></a>
 	<a href="https://discord.com/"><img width="30px" style="padding-right:8px" title="Discord" src="images/discord.webp"></a>
 	<a href="https://telegram.org/"><img width="30px" style="padding-right:8px" title="Telegram" src="images/telegram.webp"></a>
 	<a href="https://prometheus.io/"><img width="30px" style="padding-right:8px" title="Prometheus" src="images/prometheus.webp"></a>

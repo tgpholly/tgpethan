@@ -31,6 +31,7 @@ Discord: tgpholly
 	<a href="https://redis.io/"><img width="30px" style="padding-right:8px" title="Redis" src="images/redis.webp"></a>
 	<a href="https://godotengine.org/"><img width="30px" style="padding-right:8px" title="Godot" src="images/godot.webp"></a>
 	<a href="https://github.com/jesseduffield/lazygit"><img width="30px" style="padding-right:8px" title="lazygit" src="images/lazygit.webp"></a>
+	<a href="https://github.com/jesseduffield/lazydocker"><img width="30px" style="padding-right:8px" title="lazydocker" src="images/lazydocker.webp"></a>
 	<a href="https://discord.com/"><img width="30px" style="padding-right:8px" title="Discord" src="images/discord.webp"></a>
 	<a href="https://telegram.org/"><img width="30px" style="padding-right:8px" title="Telegram" src="images/telegram.webp"></a>
 	<a href="https://prometheus.io/"><img width="30px" style="padding-right:8px" title="Prometheus" src="images/prometheus.webp"></a>

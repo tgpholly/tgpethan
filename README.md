@@ -1,3 +1,5 @@
+<h1>I've moved to <b>https://git.eusv.net</b>, got sick of GitHub's bs.</h1>
+
 ### Hey there, I'm Holly
 Discord: tgpholly
 

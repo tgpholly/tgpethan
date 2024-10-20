@@ -1,7 +1,6 @@
-<h1>I've moved to <b>https://git.eusv.net</b>, got sick of GitHub's bs.</h1>
+<h1>I have moved to <b>https://git.eusv.net</b>, all repos here are read-only mirrors.</h1>
 
 ### Hey there, I'm Holly
-Discord: tgpholly
 
 <!-- incoming html!!!! -->
 <h2> </h2>
